@@ -47,6 +47,6 @@ target: 0 – Not looking for job change, 1 – Looking for a job change
 
 Inspiration Predict the probability of a candidate will work for the company Interpret model(s) such a way that illustrate which features affect candidate decision Please refer to the following task for more details: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists/tasks?taskId=3015
 
-image
+![image](https://user-images.githubusercontent.com/105064487/184943522-b79960c8-7b88-4f5e-a7bf-c411ae88b33e.png)
 
 We will explore a dataset compiled to understand which factors lead a person to leave their current job as a data scientist. Using this data, we’ll conduct an exploratory data analysis (EDA) to find patterns.
